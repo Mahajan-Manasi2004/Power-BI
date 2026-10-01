@@ -34,4 +34,4 @@ Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 📸 Dashboard Preview
 
-![Insurance Data Dashboard](Insurance%20Data%20Dashboard.png)
+
