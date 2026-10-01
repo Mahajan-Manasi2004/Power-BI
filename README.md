@@ -34,7 +34,7 @@ Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 📸 Dashboard Preview
 
-<img width="904" height="547" alt="Screenshot 2026-10-01 160902" src="https://github.com/user-attachments/assets/60babafd-2b0d-4b8b-9f40-71398ae544e7" />
+<img width="1415" height="742" alt="Insurance Data Dashbord" src="https://github.com/user-attachments/assets/bab4ed22-86f4-4079-9dc3-59c5af3a0019" />
 
 <img width="1421" height="746" alt="Insurance Data Dashbord (2)" src="https://github.com/user-attachments/assets/476d9f3e-71f4-4735-ae7f-a14664e69eb5" />
 
