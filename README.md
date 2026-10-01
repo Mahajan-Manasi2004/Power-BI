@@ -31,3 +31,7 @@ This project focuses on analyzing insurance data and creating an interactive das
 - `Insurance Data.pbix`
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+
+📸 Dashboard Preview
+
+![Insurance Data Dashboard](Insurance%20Data%20Dashboard.png)
